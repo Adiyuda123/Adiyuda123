@@ -7,7 +7,7 @@
     <samp> I am a Backend Engineer (Golang). I am a graduate of Alterra Academy Batch 16 2023 as a highly skilled Backend Engineer with expertise in Golang and a strong foundation in software development.
     </samp>
 
-## Tech Stack
+## Tech Stack:
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -24,7 +24,7 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-red.svg?style=for-the-badge&logo=redis&logoColor=white)
   
-## You Can Find Me on
+## You Can Find Me on:
   
 <div align="left"> 
 
