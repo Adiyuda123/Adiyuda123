@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there, i'm Adi Yuda 👋
 
-<!--
-**Adiyuda123/Adiyuda123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=Adiyuda123&&style=flat-square" align="center" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
