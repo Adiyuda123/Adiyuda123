@@ -32,3 +32,6 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/adiyudapranata)
 [![Telegram](https://img.shields.io/badge/telegram-deepskyblue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adyuda)
 </div>
+
+## GitHub Stats ⭐
+<div align="left"><img src="https://github-stats-tkiw.vercel.app/api?username=Adiyuda123&show_icons=true&count_private=true" align="center" /></div> 
