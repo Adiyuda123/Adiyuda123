@@ -29,5 +29,6 @@
 <div align="left"> 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adi-yuda-pranata-44b813279)
-[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/adiyudapranata)
+[![HackerRank](https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/adiyudapranata)
+[![Telegram](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adyuda)
 </div>
