@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=Adiyuda123&&style=flat-square" align="center" />
 
 <p align="left">
-    <samp> I am a Backend Engineer (Golang). I am a graduate of Alterra Academy Batch 16 2023 as a highly skilled Backend Engineer with expertise in Golang and a strong foundation in software development.
+    <samp> I'm a Backend Engineer, recently completed a training program at Alterra Academy as a highly-skilled Backend Engineer with expertise in Golang and a strong foundation in software development. There, I gained extensive knowledge in Go, Git, GitHub, MySQL, REST API, and AWS programming. With a proven track record of developing web applications using technologies such as MySQL and Redis, I have a deep understanding of RESTful API design. I can also implement the principles of Clean Architecture as a working standard in projects. My technical skills include advanced problem-solving, algorithms, and data structures. Currently, looking for a position as a Software Developer or Backend Developer (Golang).
     </samp>
 
 ## Tech Stack:
